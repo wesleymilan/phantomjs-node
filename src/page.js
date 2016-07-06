@@ -117,7 +117,8 @@ const methods = [
     'switchToFrame',
     'switchToMainFrame',
     'switchToParentFrame',
-    'uploadFile'
+    'uploadFile',
+    'setProxy'
 ];
 
 asyncMethods.forEach(method => {
